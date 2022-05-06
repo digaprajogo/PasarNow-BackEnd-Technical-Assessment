@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Baby Octopus",
+    "description": "赤ちゃんタコ",
+    "price": 40000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/baby-octopus-x.jpg",
+    "userId": "admin1",
+    "category": "Appetizer"
+  },
+  {
+    "name": "Chuka Wakame",
+    "description": "ちゅかわかめ",
+    "price": 30000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/chuka-wakame-x.jpg",
+    "userId": "admin1",
+    "category": "Appetizer"
+  },
+  {
+    "name": "Sashimi Salad",
+    "description": "刺身サラダ",
+    "price": 48000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/sashimi-salad-x.jpg",
+    "userId": "admin1",
+    "category": "Appetizer"
+  },
+  {
+    "name": "Steamed Egg",
+    "description": "茶碗蒸し",
+    "price": 26000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/steamed-egg-x.jpg",
+    "userId": "admin1",
+    "category": "Appetizer"
+  },
+  {
+    "name": "Salmon Sashimi",
+    "description": "サーモン刺身",
+    "price": 45000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/salmon-sashimi-x.jpg",
+    "userId": "admin1",
+    "category": "Sashimi"
+  },
+  {
+    "name": "Tuna Sashimi",
+    "description": "マグロの刺身",
+    "price": 40000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/tuna-sashimi-x.jpg",
+    "userId": "admin1",
+    "category": "Sashimi"
+  },
+  {
+    "name": "Salmon Belly Sashimi",
+    "description": "サーモンベリー刺身",
+    "price": 58000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/salmon-belly-sashimi-x.jpg",
+    "userId": "admin1",
+    "category": "Sashimi"
+  },
+  {
+    "name": "Fatty Tuna (Chutoro) Sashimi",
+    "description": "中トロ刺身",
+    "price": 80000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/fatty-tuna-chutoro-sashimi-x.jpg",
+    "userId": "admin1",
+    "category": "Sashimi"
+  },
+  {
+    "name": "Fattiest Tuna (Ohtoro) Sashimi",
+    "description": "おとろ刺身",
+    "price": 90000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/fattiest-tuna-ohtoro-sashimi-x.jpg",
+    "userId": "admin1",
+    "category": "Sashimi"
+  },
+  {
+    "name": "Baby Octopus Gunkan",
+    "description": "赤ちゃんタコ軍艦",
+    "price": 26000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/baby-octopus-gunkan-x.jpg",
+    "userId": "admin1",
+    "category": "Gunkan"
+  },
+  {
+    "name": "Corn Gunkan",
+    "description": "とうもろこし軍艦",
+    "price": 15000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/corn-gunkan-x.jpg",
+    "userId": "admin1",
+    "category": "Gunkan"
+  },
+  {
+    "name": "Poke Gunkan",
+    "description": "ポケ軍艦",
+    "price": 26000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/poke-gunkan-x.jpg",
+    "userId": "admin1",
+    "category": "Gunkan"
+  },
+  {
+    "name": "Salmon Roe Gunkan ",
+    "description": "イクラ軍艦",
+    "price": 55000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/salmon-roe-gunkan-x.jpg",
+    "userId": "admin1",
+    "category": "Gunkan"
+  },
+  {
+    "name": "Spicy Salmon Gunkan",
+    "description": "スパイシーサーモン軍艦",
+    "price": 26000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/spicy-salmon-gunkan-x.jpg",
+    "userId": "admin1",
+    "category": "Gunkan"
+  },
+  {
+    "name": "Spicy Salmon Salad Gunkan ",
+    "description": "スパイシーサーモンサラダ軍艦",
+    "price": 26000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/spicy-salmon-salad-gunkan-x.jpg",
+    "userId": "admin1",
+    "category": "Gunkan"
+  },
+  {
+    "name": "Tuna Salad Gunkan",
+    "description": "ツナサラダ軍艦",
+    "price": 26000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/tuna-salad-gunkan-x.jpg",
+    "userId": "admin1",
+    "category": "Gunkan"
+  },
+  {
+    "name": "California Roll",
+    "description": "カリフォルニアロール",
+    "price": 35000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/california-roll-x.jpg",
+    "userId": "admin1",
+    "category": "Makimono"
+  },
+  {
+    "name": "Crispy Tuna Salad Spicy Roll",
+    "description": "サクサクのツナサラダスパイシーロール",
+    "price": 40000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/crispy-tuna-salad-spicy-roll-x.jpg",
+    "userId": "admin1",
+    "category": "Makimono"
+  },
+  {
+    "name": "Royale Salmon Roll",
+    "description": "ロイヤルサーモンロール",
+    "price": 45000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/royale-salmon-roll-x.jpg",
+    "userId": "admin1",
+    "category": "Makimono"
+  },
+  {
+    "name": "Salmon Belly ",
+    "description": "サーモンベリー",
+    "price": 2800,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/salmon-belly-x.jpg",
+    "userId": "admin1",
+    "category": "Nigiri"
+  },
+  {
+    "name": "Hana Sushi",
+    "description": "花寿司",
+    "price": 45000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/hana-sushi-x.jpg",
+    "userId": "admin1",
+    "category": "Nigiri"
+  },
+  {
+    "name": "Salmon Combo",
+    "description": "サーモンコンボ",
+    "price": 79000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/salmon-combo-x.jpg",
+    "userId": "admin1",
+    "category": "Nigiri"
+  },
+  {
+    "name": "Dynamite Salmon Nigiri",
+    "description": "ダイナマイトサーモンニギリ",
+    "price": 28000,
+    "imgUrl": "https://genkisushi.co.id/media/2020/06/dynamite-salmon-nigiri-x.jpg",
+    "userId": "admin1",
+    "category": "Nigiri"
+  }
+]

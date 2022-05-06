@@ -1,0 +1,18 @@
+[
+  {
+    "username": "admin1",
+    "email": "admin1@admin.com",
+    "password": "admin1",
+    "role": "admin",
+    "phoneNumber": "608-471-1018",
+    "address": "14 Paget Trail"
+  },
+  {
+    "username": "customer1",
+    "email": "customer1@customer.com",
+    "password": "customer1",
+    "role": "customer",
+    "phoneNumber": "229-217-0674",
+    "address": "27 Mallard Street"
+  }
+]

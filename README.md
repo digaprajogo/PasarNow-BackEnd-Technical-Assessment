@@ -23,9 +23,10 @@ Authentication required:
 
 How to run locally:
 
-1. node migrations/create-users-collection-with-validation.js
-2. node seeders/seedingUsers.js
-3. node seeders/seedingFood.js
+1. run node migrations/create-users-collection-with-validation.js
+2. run node seeders/seedingUsers.js
+3. run node seeders/seedingFood.js
+4. run nodemon app / node app
 
 &nbsp;
 
